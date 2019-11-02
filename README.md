@@ -24,7 +24,7 @@ If you only have one account, there will only be one folder in \userdata\ - If y
 
 1. Open the Page's Source (Ctrl+U on most browsers, also accessible via right click menu)
 
-1. Copy the page's source to and paste it into **unparsed.txt** If there are multiple pages of results for the filter you used, copy each page's source to the text file without overwriting.
+1. Copy the page's source and paste it into **unparsed.txt** If there are multiple pages of results for the filter you used, copy each page's source to the text file without overwriting.
 
 1. Run SteamCat.py
 
